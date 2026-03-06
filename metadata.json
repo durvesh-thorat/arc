@@ -1,5 +1,5 @@
 {
-  "name": "Arc Reactor Energy Distribution",
+  "name": "Remix: Arc Reactor Energy Distribution",
   "description": "A real-time energy allocation panel for Arc Reactor subsystems with stability monitoring.",
   "requestFramePermissions": []
 }
